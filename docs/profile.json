@@ -1,0 +1,14 @@
+{
+  "firstName": "Elber",
+  "lastName": "Costa",
+  "phone": "11963440343",
+  "email": "elber.cm@hotmail.com",
+  "location": {
+    "address": "Centro",
+    "city": "São Paulo",
+    "country": "SP"
+  },
+  "position": "Full-Stack developer",
+  "birthday": "1987/09/25",
+  "aboutMe": "Vamos trabalhar juntos"
+}
